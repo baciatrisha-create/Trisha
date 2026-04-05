@@ -15,6 +15,7 @@ C:\Users\63917\Desktop\bacia\Trisha\obj\Debug\net10.0\Trisha.AssemblyInfoInputs.
 C:\Users\63917\Desktop\bacia\Trisha\obj\Debug\net10.0\Trisha.AssemblyInfo.cs
 C:\Users\63917\Desktop\bacia\Trisha\obj\Debug\net10.0\Trisha.csproj.CoreCompileInputs.cache
 C:\Users\63917\Desktop\bacia\Trisha\obj\Debug\net10.0\Trisha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\63917\Desktop\bacia\Trisha\obj\Debug\net10.0\Trisha.sourcelink.json
 C:\Users\63917\Desktop\bacia\Trisha\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\63917\Desktop\bacia\Trisha\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\63917\Desktop\bacia\Trisha\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
